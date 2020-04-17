@@ -71,7 +71,7 @@ sections:
 - type: document
   path: hugo/data/pricing.yml
   label: Pricing
-upload_dir: uploads
+upload_dir: hugo/static/uploads
 public_path: https://festive-stonebraker-e79687.netlify.app/.netlify/large-media
 front_matter_path: ''
 use_front_matter_path: 
