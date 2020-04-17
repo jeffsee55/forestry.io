@@ -4,13 +4,13 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: heading
+  label: Content
 - type: document
   path: my-doc.md
   label: My Doc
   match: "**/*"
   read_only: false
-- type: heading
-  label: Content
 - type: directory
   path: hugo/content
   label: Pages
