@@ -5,7 +5,7 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
-  path: my-doc.yml
+  path: my-doc.md
   label: My Doc
   match: "**/*"
   read_only: false
