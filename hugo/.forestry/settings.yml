@@ -6,6 +6,9 @@ webhook_url:
 sections:
 - type: heading
   label: Content
+- type: document
+  path: hugo/content/about.md
+  label: My Doc
 - type: directory
   path: hugo/content
   label: Pages
