@@ -100,7 +100,7 @@ fields:
   - type: textarea
     name: textline
     label: Textline
-    description: Optional; defaults will be used if empty
+    description: Optional; defaults will be used if <em>empty</em>
   - type: field_group_list
     name: calls_to_action
     label: Calls to Action
