@@ -65,6 +65,7 @@ sections:
 - type: document
   path: hugo/data/starters.yml
   label: Starters
+  read_only: true
 - type: document
   path: hugo/data/authors.yml
   label: Authors
@@ -75,7 +76,7 @@ sections:
   path: hugo/data/pricing.yml
   label: Pricing
 upload_dir: hugo/static/uploads
-public_path: https://festive-stonebraker-e79687.netlify.app/uploads
+public_path: https://festive-stonebraker-e79687.netlify.app/.netlify/large-media
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
