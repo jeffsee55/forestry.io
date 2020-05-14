@@ -9,6 +9,7 @@ sections:
 - type: document
   path: hugo/content/about.md
   label: My Doc
+  read_only: true
 - type: directory
   path: hugo/content
   label: Pages
