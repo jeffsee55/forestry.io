@@ -1,10 +1,10 @@
 ---
 title: Terms of Use
-date: 2016-04-20 00:00:00 +0000
+date: 2016-04-20T00:00:00.000+00:00
 weight: 2
 type: default
-publishdate: 2017-12-31 04:00:00 +0000
-expirydate: 2030-01-01 04:00:00 +0000
+publishdate: 2017-12-30T04:00:00+00:00
+expirydate: 2030-01-01T04:00:00.000+00:00
 headline: ''
 description: ''
 textline: ''
@@ -18,6 +18,7 @@ cta:
   calls_to_action: []
 private: false
 aliases: []
+photo_credit: ''
 menu:
   footer:
     parent: Company
