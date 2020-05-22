@@ -1,5 +1,5 @@
 ---
-title: UX Designer/Developer
+title: UX Designer/Develope
 description: ''
 date: 2019-04-13T03:00:00.000+00:00
 authors:
@@ -19,7 +19,6 @@ private: false
 weight: 
 aliases: []
 photo_credit: ''
-menu: []
 draft: true
 
 ---
