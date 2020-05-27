@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: "/admin"
+admin_path: "/static/admin"
 webhook_url: 
 sections:
 - type: heading
@@ -9,7 +9,6 @@ sections:
 - type: document
   path: hugo/content/about.md
   label: My Doc
-  read_only: true
 - type: directory
   path: hugo/content
   label: Pages
@@ -66,7 +65,6 @@ sections:
 - type: document
   path: hugo/data/starters.yml
   label: Starters
-  read_only: true
 - type: document
   path: hugo/data/authors.yml
   label: Authors
