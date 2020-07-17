@@ -141,6 +141,7 @@ fields:
   name: menu
   label: menu
 pages:
+- datafiletest/hello.md
 - hugo/content/blog/3-patterns-for-loading-data-with-react.md
 - hugo/content/blog/3-tips-for-mastering-blocks.md
 - hugo/content/blog/5-options-for-automating-your-software-deployments.md
