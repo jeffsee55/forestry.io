@@ -31,6 +31,13 @@ sections:
   label: Blog
   create: all
   match: "**/*"
+- type: directory
+  path: datafiletest
+  label: DataFile Test
+  create: all
+  match: "**/*"
+  templates:
+  - default
 - type: heading
   label: Documentation
 - type: directory
