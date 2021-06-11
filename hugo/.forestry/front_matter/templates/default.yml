@@ -140,6 +140,18 @@ fields:
 - type: list
   name: menu
   label: menu
+- name: author2
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: documents
+      section: blog
+      file: hugo/content/blog/3-patterns-for-loading-data-with-react.md
+      path: categories
+  label: Author2
 pages:
 - hugo/content/blog/3-patterns-for-loading-data-with-react.md
 - hugo/content/blog/3-tips-for-mastering-blocks.md
