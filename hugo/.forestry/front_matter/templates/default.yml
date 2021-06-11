@@ -63,9 +63,9 @@ fields:
     use_select: true
     source:
       type: documents
-      file: hugo/data/authors.yml
-      path: map
-      section: authors
+      file: hugo/content/showcase/buoyant.md
+      path: images
+      section: showcase
   default: []
 - type: list
   name: categories
@@ -141,7 +141,6 @@ fields:
   name: menu
   label: menu
 pages:
-- datafiletest/hello.md
 - hugo/content/blog/3-patterns-for-loading-data-with-react.md
 - hugo/content/blog/3-tips-for-mastering-blocks.md
 - hugo/content/blog/5-options-for-automating-your-software-deployments.md
